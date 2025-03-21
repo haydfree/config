@@ -1,3 +1,5 @@
+/* ~/projects/clones/dwm/config.h */
+
 /* See LICENSE file for copyright and license details. */
 
 /* appearance */
