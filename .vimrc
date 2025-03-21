@@ -1,3 +1,5 @@
+# ~/.vimrc
+
 syntax on
 set foldmethod=indent
 set backspace=indent,eol,start
