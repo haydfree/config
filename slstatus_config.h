@@ -1,3 +1,5 @@
+/* ~/projects/clones/slstatus/config.h */
+
 /* See LICENSE file for copyright and license details. */
 
 /* interval between updates (in ms) */
