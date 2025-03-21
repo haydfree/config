@@ -1,3 +1,5 @@
+/* ~/projects/clones/st/config.h */
+
 /* See LICENSE file for copyright and license details. */
 
 /*
