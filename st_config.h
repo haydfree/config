@@ -1,5 +1,3 @@
-/* ~/projects/clones/st/config.h */
-
 /* See LICENSE file for copyright and license details. */
 
 /*
@@ -7,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "IosevkaFixed:Regular:pixelsize=20:antialias=true:autohint=true";
+static char *font = "IosevkaFixed:Regular:pixelsize=30:antialias=true:autohint=true";
 static int borderpx = 2;
 
 /*
