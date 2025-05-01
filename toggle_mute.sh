@@ -6,5 +6,4 @@ if [ "$MUTE_STATUS" == "[off]" ]; then
     amixer set Master unmute
 else
     amixer set Master mute
-fi
-    
+fi 
